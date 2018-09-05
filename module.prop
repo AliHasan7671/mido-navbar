@@ -1,0 +1,7 @@
+id=mido-navbar
+name=Navbar for mido
+version=v1
+versionCode=1
+author=Ali Hasan
+description=This module enables navbar and disables capacitive buttons completely on mido. May work on other SD625 devices also.
+minMagisk=17000
